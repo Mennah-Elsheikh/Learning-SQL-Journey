@@ -1,1 +1,1 @@
-# Learning-SQL-Journey-
+# Learning-SQL-Journey
