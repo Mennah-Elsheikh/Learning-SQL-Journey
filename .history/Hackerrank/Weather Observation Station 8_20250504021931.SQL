@@ -1,0 +1,5 @@
+/*
+
+*/
+SELECT DISTINCT(CITY) FROM STATION 
+WHERE CITY LIKE '[A,E,I,O,U]%[a,e,i,o,u]';
