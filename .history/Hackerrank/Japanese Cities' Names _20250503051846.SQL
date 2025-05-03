@@ -1,4 +1,0 @@
-/*
-
-*/
-select NAME from CITY where countrycode = "JPN";
