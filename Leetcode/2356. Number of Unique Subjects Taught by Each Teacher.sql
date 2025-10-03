@@ -1,0 +1,5 @@
+/* Write your T-SQL query statement below */
+select distinct teacher_id , count(distinct subject_id )as cnt
+from Teacher 
+group by teacher_id ; 
+-- 2356. Number of Unique Subjects Taught by Each Teacher
