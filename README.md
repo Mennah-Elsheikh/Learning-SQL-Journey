@@ -26,7 +26,7 @@ I consistently work on refining my skills by solving practical problems on well-
 
 ## 🏆 Certifications and Proof of Competency
 
-I have diligently deepened my knowledge through accredited courses. You can review all the certificates I have obtained in the [Certificates](link-to-certificates-folder-here) folder:
+I have diligently deepened my knowledge through accredited courses. You can review all the certificates I have obtained in the [Certificates](https://github.com/Mennah-Elsheikh/Learning-SQL-Journey/tree/main/certificates) folder:
 
 * **DataCamp:** Specialized certificates in data analysis using SQL.
 * **Maharah Tech:** Proof of proficiency in foundational and advanced concepts.
